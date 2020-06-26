@@ -3,6 +3,7 @@ This is a basic graphql example using h2 db. We have added a person schema "pers
 a. "getAllPerson", b. "findPerson". In controller class load the graphQL schema and execute the query.
 
 From Jmeter or POSTman we are passing below body data as below for "getAllPerson" to fetch from DB.
+<br/>
 {
 	getAllPerson{
 		name
