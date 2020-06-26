@@ -4,10 +4,10 @@ a. "getAllPerson", b. "findPerson". In controller class load the graphQL schema 
 
 From Jmeter or POSTman we are passing below body data as below for "getAllPerson" to fetch from DB.
 <br/>
-{
-	getAllPerson{
-		name
-		email
-		mobile
-	}
-}
+{<br/>
+	getAllPerson{ <br/>
+		name <br/>
+		email <br/>
+		mobile <br/>
+	} <br/>
+} <br/>
